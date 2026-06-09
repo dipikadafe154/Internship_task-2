@@ -1,5 +1,8 @@
 # Sales Trend Visualization 📊
 
+## Intern Information
+Intern ID: CITS2475
+
 ## Overview
 
 Sales Trend Visualization is a Python-based data analysis project that helps analyze sales data and visualize product-wise sales performance. The project calculates key sales metrics and generates charts to provide insights into sales trends.
